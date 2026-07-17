@@ -1,0 +1,12 @@
+固定性補綴学 暗記アプリ — GitHub Pages 配置方法
+
+解凍後、このフォルダの中身をすべてリポジトリ直下へアップロードしてください。
+index.html と assets、icons が同じ階層に見える状態が正解です。
+
+Settings → Pages → Deploy from a branch → main → /(root) → Save
+
+画像確認例：
+https://ユーザー名.github.io/リポジトリ名/assets/figures/p44_1.jpeg
+
+更新時に古い画面が残る場合：
+ホーム画面の旧アプリを削除 → Safariで再読み込み → ホーム画面へ追加。
